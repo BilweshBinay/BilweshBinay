@@ -1,6 +1,6 @@
 # Hi 👋, I'm Y P Bilwesh 
 
-## Java Full Stack Developer | Backend Engineer (Spring Boot)
+## Java Full Stack Developer | Backend (Spring Boot)
 
 I am a Java-focused backend developer building scalable REST APIs and real-world applications using Spring Boot, JDBC, Servlets, and MySQL. I enjoy writing clean backend logic and continuously improving my problem-solving skills through projects.
 
