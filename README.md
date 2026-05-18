@@ -1,80 +1,109 @@
-<h1 align="center">Hi 👋, I'm Y P Bilwesh</h1>
-<h3 align="center">Java Full Stack Developer | Backend Enthusiast | Spring Boot Learner</h3>
+# Hi 👋, I'm Bilwesh Binay
 
-<p align="center">
-  Passionate about building scalable backend systems and real-world applications using Java and Spring Boot.
-</p>
+## Java Full Stack Developer | Backend Engineer (Spring Boot)
+
+I am a Java-focused backend developer building scalable REST APIs and real-world applications using Spring Boot, JDBC, Servlets, and MySQL. I enjoy writing clean backend logic and continuously improving my problem-solving skills through projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Java Full Stack Development (Spring Boot, REST APIs, MySQL)**
-- 💻 Focused on **Backend Development with Java**
-- 🧠 Interested in **System Design & API Development**
-- 🔥 Building projects to strengthen real-world development skills
-- 📫 Reach me at: **bilweshbinay1025@gmail.com**
+- 🔭 Currently working on Java Full Stack Development  
+- 🌱 Learning Spring Boot, REST APIs, and Microservices basics  
+- 💻 Strong interest in Backend Engineering  
+- 🧠 Focused on building real-world production-style projects  
+- 📫 Email: bilweshbinay1025@gmail.com  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- Java, JavaScript
+**Languages**
+- Java
+- JavaScript
 
-**Backend:**
-- JDBC, Servlets, Spring Boot (learning)
+**Backend**
+- Spring Boot
+- JDBC
+- Servlets
+- REST APIs (learning & building)
 
-**Frontend:**
-- HTML, CSS
-
-**Database:**
+**Database**
 - MySQL
 
-**Tools:**
-- Git, GitHub, VS Code, Postman
+**Frontend Basics**
+- HTML
+- CSS
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
 
 ---
 
 ## 📌 Projects
 
-- 🔐 JWT Authentication System (Spring Boot)
-- 🏥 PetClinic Clone (Java / Spring Boot)
-- 🛒 E-Commerce Backend (Upcoming)
+> (Pin these repositories on GitHub)
 
-> More projects coming soon as I grow in backend development...
+### 🔐 JWT Authentication System (Spring Boot)
+- Secure login/register system using JWT  
+- Role-based authentication (if implemented)  
+- REST API design  
+
+### 🏥 PetClinic Clone
+- Spring Boot based backend application  
+- CRUD operations with MySQL  
+- Layered architecture (Controller, Service, Repository)  
+
+### 🛒 E-Commerce Backend (In Progress)
+- Product, user, and order management APIs  
+- MySQL integration  
+- RESTful backend design  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilweshBinay" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilweshBinay&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilweshBinay" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilweshBinay&layout=compact" />
-</p>
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/y-p-bilwesh-2346151a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
+- LinkedIn: https://www.linkedin.com/in/y-p-bilwesh-2346151a0/  
+- Email: bilweshbinay1025@gmail.com  
 
-  <a href="https://www.instagram.com/bilwesh25/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" />
-  </a>
-</p>
+---
+## 📌 Projects
+### 🔐 JWT Authentication System (Spring Boot)
+- Secure login/register system using JWT  
+- Role-based authentication  
+- REST API design  
+👉 GitHub: https://github.com/BilweshBinay/jwt-auth-project
+
+---
+### 🏥 PetClinic Clone
+- Spring Boot backend application  
+- CRUD operations with MySQL  
+- Layered architecture  
+👉 GitHub: https://github.com/BilweshBinay/spring-boot-spring-security-jwt-authentication
 
 ---
 
-<p align="center">
-  🚀 Keep building. Keep improving. Success follows consistency.
-</p>
+### 🏍️ Bike Showroom Management System
+- Java-based showroom management application
+- CRUD operations for bikes, customers, and bookings
+- MySQL database integration
+- Built using JDBC / Servlets
+👉 GitHub: https://github.com/BilweshBinay/Bike-Showroom-Application
+  
+---
+
+⭐ *Consistency > complexity. Build, improve, and refine your backend projects step by step.*
