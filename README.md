@@ -1,26 +1,81 @@
 <h1 align="center">Hi 👋, I'm Y P Bilwesh</h1>
-<h3 align="center">A passionate java developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<h3 align="center">Java Full Stack Developer | Backend Enthusiast | Spring Boot Learner</h3>
 
-
-- 🌱 I’m currently learning *Java full stack development*
-
-- 💬 Ask me about *Java,Servlets,Mysql,Jdbc,HTML,CSS*
-
-- 📫 How to reach me *bilweshbinay1025@gmail.com*
-
-- 🔥 Fun fact: Spring is not just a season; it's how I build everything cool. 🌸💻
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/charanreddyjv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charanreddyjv" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/y-p-bilwesh-2346151a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charanjv" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bilwesh25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charan_jv" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable backend systems and real-world applications using Java and Spring Boot.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charanbyte&show_icons=true&locale=en&layout=compact" alt="charanbyte" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanbyte&" alt="charanbyte" /></p>
+- 🌱 Currently learning **Java Full Stack Development (Spring Boot, REST APIs, MySQL)**
+- 💻 Focused on **Backend Development with Java**
+- 🧠 Interested in **System Design & API Development**
+- 🔥 Building projects to strengthen real-world development skills
+- 📫 Reach me at: **bilweshbinay1025@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Java, JavaScript
+
+**Backend:**
+- JDBC, Servlets, Spring Boot (learning)
+
+**Frontend:**
+- HTML, CSS
+
+**Database:**
+- MySQL
+
+**Tools:**
+- Git, GitHub, VS Code, Postman
+
+---
+
+## 📌 Projects
+
+- 🔐 JWT Authentication System (Spring Boot)
+- 🏥 PetClinic Clone (Java / Spring Boot)
+- 🛒 E-Commerce Backend (Upcoming)
+
+> More projects coming soon as I grow in backend development...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/y-p-bilwesh-2346151a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+
+  <a href="https://www.instagram.com/bilwesh25/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Keep building. Keep improving. Success follows consistency.
+</p>z
