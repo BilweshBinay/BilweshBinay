@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-p-bilwesh&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilweshBinay&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y-p-bilwesh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilweshBinay" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-p-bilwesh&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilweshBinay&layout=compact" />
 </p>
 
 ---
