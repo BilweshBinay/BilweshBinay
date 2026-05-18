@@ -55,6 +55,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilweshBinay" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilweshBinay&layout=compact&hide_border=true" />
+</p>
 ---
 
 ## 🌐 Connect With Me
