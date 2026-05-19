@@ -82,9 +82,9 @@ I am a Java-focused backend developer building scalable REST APIs and real-world
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="mailto:bilweshbinay1025@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-  </a>
+  <a href="mailto:bilweshbinay1025@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
+</a>
 </p> 
 
 ---
