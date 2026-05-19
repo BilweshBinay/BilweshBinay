@@ -77,8 +77,15 @@ I am a Java-focused backend developer building scalable REST APIs and real-world
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/y-p-bilwesh-2346151a0/  
-- Email: bilweshbinay1025@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/y-p-bilwesh-2346151a0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+
+  <a href="mailto:bilweshbinay1025@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
+</p> 
 
 ---
 ## 📌 Projects
