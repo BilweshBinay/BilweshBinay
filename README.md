@@ -18,11 +18,11 @@
 
 ## 🛠️ Tech Stack
 
-**Languages : ** Java, JavaScript
-**Backend : ** Spring Boot, Spring MVC, Spring Security (if used), Servlets, JDBC, REST APIs
-**Database : ** MySQL
-**Frontend Basics : ** HTML, CSS
-**Tools : ** Git & GitHub, Postman, VS Code
+- Languages : Java, JavaScript
+- Backend : Spring Boot, Spring MVC, Spring Security (if used), Servlets, JDBC, REST APIs
+- Database : MySQL
+- Frontend Basics : HTML, CSS
+- Tools : Git & GitHub, Postman, VS Code
 
 ---
 
