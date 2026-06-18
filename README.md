@@ -1,44 +1,28 @@
 # Hi 👋, I'm Y P Bilwesh 
 
-## Java Full Stack Developer | Backend (Spring Boot)
+## Backend Java Developer (Spring Boot | REST APIs | MySQL)
 
-I am a Java-focused backend developer building scalable REST APIs and real-world applications using Spring Boot, JDBC, Servlets, and MySQL. I enjoy writing clean backend logic and continuously improving my problem-solving skills through projects.
+- Backend‑focused Java developer building REST APIs and production‑style projects using Spring Boot, MySQL, and security (JWT).
 
+- Interested in scalable backend systems, clean code, and problem solving.
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Java Full Stack Development  
-- 🌱 Learning Spring Boot, REST APIs, and Microservices basics  
-- 💻 Strong interest in Backend Engineering  
-- 🧠 Focused on building real-world production-style projects  
-- 📫 Email: bilweshbinay1025@gmail.com  
+- 🔭 Currently: Learning and building backend projects with Spring Boot and MySQL. 
+- 🌱 Exploring: REST APIs, Spring Security, JWT, and basic microservices concepts.
+- 💻 Interest: Backend engineering and system design fundamentals.  
+- 📫 Contact: bilweshbinay1025@gmail.com and www.linkedin.com/in/y-p-bilwesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Java
-- JavaScript
-
-**Backend**
-- Spring Boot
-- JDBC
-- Servlets
-- REST APIs (learning & building)
-
-**Database**
-- MySQL
-
-**Frontend Basics**
-- HTML
-- CSS
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
+**Languages : ** Java, JavaScript
+**Backend : ** Spring Boot, Spring MVC, Spring Security (if used), Servlets, JDBC, REST APIs
+**Database : ** MySQL
+**Frontend Basics : ** HTML, CSS
+**Tools : ** Git & GitHub, Postman, VS Code
 
 ---
 
@@ -47,20 +31,24 @@ I am a Java-focused backend developer building scalable REST APIs and real-world
 > (Pin these repositories on GitHub)
 
 ### 🔐 JWT Authentication System (Spring Boot)
-- Secure login/register system using JWT  
-- Role-based authentication (if implemented)  
-- REST API design  
+- Tech: Spring Boot, Spring Security, JWT, MySQL
+- Features: User registration & login, token‑based authentication, role‑based access control (Admin/User)
+- REST APIs: /auth/register, /auth/login, protected endpoints with JWT filter 
 
 ### 🏥 PetClinic Clone
-- Spring Boot based backend application  
-- CRUD operations with MySQL  
-- Layered architecture (Controller, Service, Repository)  
+- Tech: Spring Boot, Spring Data JPA (if used), MySQL
+- Features: CRUD APIs for owners, pets, visits, veterinarians
+- Design: Layered architecture (Controller, Service, Repository) with DTOs and validation
 
-### 🛒 E-Commerce Backend (In Progress)
-- Product, user, and order management APIs  
-- MySQL integration  
-- RESTful backend design  
+### 🛒 E-Commerce Backend 
+- Tech: Spring Boot, MySQL (later add Spring Security, JWT)
+- Features: Product, user, and order management APIs (list, create, update, delete)
+- Planned: Authentication, cart, order history, and pagination
 
+### Bike Showroom Management System
+- Tech: Core Java, JDBC / Servlets, MySQL
+- Features: CRUD operations for bikes, customers, and bookings, simple console or web UI
+- Concepts: DAO pattern, database connectivity, basic validation
 ---
 
 ## 📊 GitHub Stats
